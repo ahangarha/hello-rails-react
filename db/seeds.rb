@@ -1,0 +1,5 @@
+Message.create!(text: 'How do you do?')
+Message.create!(text: 'Nice to meet you.')
+Message.create!(text: 'How have you been?')
+Message.create!(text: 'Good Morning.')
+Message.create!(text: 'Good Evening.')
