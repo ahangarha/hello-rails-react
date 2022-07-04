@@ -13,3 +13,17 @@
  *= require_tree .
  *= require_self
  */
+
+body {
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+  min-height: 100vh;
+}
+
+.message-wrapper {
+  height: 100%;
+  display: grid;
+  place-content: center;
+  text-align: center;
+}
